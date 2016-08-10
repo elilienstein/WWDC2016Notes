@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
     <pages>
-        <page name='Swift API Design Guidelines - Session 403'/>
-        <page name='Getting Started With Swift - Session 404'/>
+        <page name='Design Guidelines'/>
+        <page name='Getting Started'/>
         <page name='Table of Contents'/>
     </pages>
 </playground>
