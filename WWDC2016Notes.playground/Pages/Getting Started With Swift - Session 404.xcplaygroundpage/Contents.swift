@@ -1,7 +1,6 @@
 //Getting Started With Swift: WWDC 2016 - Session 404
 
-//Calling Generic Functions
-     //Filter and map methods
+//Calling Generic Functions: Filter and map methods
 
 import UIKit
 
@@ -66,3 +65,4 @@ case.center:
     print("center")
     
 }
+//: [Next](@next)
